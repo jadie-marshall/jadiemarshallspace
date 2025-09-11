@@ -170,9 +170,9 @@
 					</div>
 				</div>
 			</div>
-
-
 		</div>
+
+		<div class="line"></div>
 
 		<div class="container">
 			<h3>CAP Index, Inc. (April 2023 - October 2023)</h3>
