@@ -90,30 +90,30 @@
 				<h3><button class="accordion">Individual Duties and Responsibilities</button></h3>
 				<div class="panel">
 					<p>
-						<br /></br>&emsp;As a fully remote member of the Sparkhound Web and Mobile team, I have worked as a full-stack developer 
-						on both Sparkhound internal projects and contracts for external clients. I collaborated closely with a geographically 
-						dispersed team that included remote, onsite, and hybrid members, ensuring seamless communication and project continuity 
+						<br /></br>&emsp;As a fully remote member of the Sparkhound Web and Mobile team, I have worked as a full-stack developer
+						on both Sparkhound internal projects and contracts for external clients. I collaborated closely with a geographically
+						dispersed team that included remote, onsite, and hybrid members, ensuring seamless communication and project continuity
 						across multiple time zones.
 
-						<br /></br>&emsp;I actively participated in the Agile development lifecycle across various projects, environments, and 
-						clients. This included attending Sprint Planning sessions, daily SCRUM meetings, and retrospective discussions to 
+						<br /></br>&emsp;I actively participated in the Agile development lifecycle across various projects, environments, and
+						clients. This included attending Sprint Planning sessions, daily SCRUM meetings, and retrospective discussions to
 						ensure proper task estimation, assignment, and tracking.
 
-						<br /></br>&emsp;One of my major projects involved developing automated workflows to manage Microsoft licenses 
-						for contractors. Using Power Automate, the PAX8 REST API, and custom scripts, I implemented processes to scale 
+						<br /></br>&emsp;One of my major projects involved developing automated workflows to manage Microsoft licenses
+						for contractors. Using Power Automate, the PAX8 REST API, and custom scripts, I implemented processes to scale
 						licenses up or down as workforce sizes changed and to assign licenses to new contractors efficiently.
 
-						<br /></br>&emsp;I utilized Azure DevOps extensively across various client spaces for task tracking, assignment, 
-						and progress updates, ensuring full transparency and accountability within the team. This included breaking down 
-						larger tasks into actionable subtasks, estimating completion times, and collaborating with team members to 
+						<br /></br>&emsp;I utilized Azure DevOps extensively across various client spaces for task tracking, assignment,
+						and progress updates, ensuring full transparency and accountability within the team. This included breaking down
+						larger tasks into actionable subtasks, estimating completion times, and collaborating with team members to
 						resolve blockers.
 
-						<br /></br>&emsp;I partnered with another developer to modernize a large set of C#/.NET repositories for a client, 
-						which involved a longer time-frame contract for execution of this undertaking. The project included extensive 
+						<br /></br>&emsp;I partnered with another developer to modernize a large set of C#/.NET repositories for a client,
+						which involved a longer time-frame contract for execution of this undertaking. The project included extensive
 						refactoring, improving code maintainability, and updating legacy functionality to align with current best practices.
 
-						<br /></br>&emsp;I designed new database tables and backend relationships to support a new category of invoice 
-						tracking within a client system. This included updating layouts, integrating new functionality, and ensuring 
+						<br /></br>&emsp;I designed new database tables and backend relationships to support a new category of invoice
+						tracking within a client system. This included updating layouts, integrating new functionality, and ensuring
 						data integrity across the system.
 					</p>
 
@@ -140,20 +140,22 @@
 						<li>Git</li>
 						<li>Visual Studio</li>
 						<li>Azure
-							<ul>Azure CLI</ul>
-							<ul>Azure DevOps</ul>
-							<ul>Azure App Services</ul>
-							<ul>Azure SQL Databases</ul>
-							<ul>Azure Blob Storage</ul>
-							<ul>Azure Functions</ul>
-							<ul>Azure Key Vault</ul>
-							<ul>Azure Application Insights</ul>
-							<ul>Azure Active Directory</ul>
-							<ul>Azure Monitor</ul>
-							<ul>Azure Logic Apps</ul>
-							<ul>Azure API Management</ul>
-							<ul>Azure Virtual Networks</ul>
-							<ul>and other Azure Tools</ul>
+							<ul>
+								<li>Azure CLI</li>
+								<li>Azure DevOps</li>
+								<li>Azure App Services</li>
+								<li>Azure SQL Databases</li>
+								<li>Azure Blob Storage</li>
+								<li>Azure Functions</li>
+								<li>Azure Key Vault</li>
+								<li>Azure Application Insights</li>
+								<li>Azure Active Directory</li>
+								<li>Azure Monitor</li>
+								<li>Azure Logic Apps</li>
+								<li>Azure API Management</li>
+								<li>Azure Virtual Networks</li>
+								<li>and other Azure Tools</li>
+							</ul>
 						</li>
 						<li>Agile Methodology</li>
 						<li>Source Control Techniques and Best Practices</li>
