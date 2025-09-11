@@ -51,13 +51,13 @@
 				<h3><button class="accordion">Team Duties and Work Overview</button></h3>
 				<div class="panel">
 					<p>
-						<br /></br>&emsp;I was a member of the Sparkhound Web and Mobile team. Sparkhound is a workplace with a mix of fully-remote,
+						<br /></br>&emsp;I am currently a member of the Sparkhound Web and Mobile team. Sparkhound is a workplace with a mix of fully-remote,
 						hybrid, and fully-onsite employees, with most employees based near one of the offices across the United States. This team works
 						directly with clients, as well as cross-departmentally with other Sparkhound teams such as Data & Analytics, UX/UI, and Cloud Services.
 						The team focuses on delivering custom web and mobile applications that meet client-specific business needs, leveraging modern
 						technologies, cloud infrastructure, and best practices in software development.
 
-						<br /></br>&emsp;Within this team, I was primarily assigned to work on client-facing applications built with C#/.NET and hosted on
+						<br /></br>&emsp;Within this team, I have been primarily assigned to work on client-facing applications built with C#/.NET and hosted on
 						Microsoft Azure. These applications included both web portals and mobile solutions that supported internal business operations,
 						workflow management, and data tracking. The applications integrate with cloud-based storage, databases, and other enterprise
 						systems, ensuring reliable performance, scalability, and security for Sparkhound clients across multiple industries.
@@ -73,7 +73,7 @@
 						mobile notifications, and integration with internal and third-party data sources. These applications were used by client employees
 						to streamline processes, monitor business operations, and gain insights into operational and analytical data.
 
-						<br /></br>&emsp;The team also worked closely with Sparkhound’s cloud architects and data teams to integrate Azure services
+						<br /></br>&emsp;The team also works closely with Sparkhound’s cloud architects and data teams to integrate Azure services
 						such as App Services, Functions, Blob Storage, and SQL-based databases. This ensured applications were highly available,
 						secure, and optimized for performance. Additionally, the team emphasized maintainable code practices, automated testing,
 						and CI/CD pipelines using Azure DevOps, allowing for rapid deployment and continuous improvement.
@@ -90,7 +90,7 @@
 				<h3><button class="accordion">Individual Duties and Responsibilities</button></h3>
 				<div class="panel">
 					<p>
-						<br /></br>&emsp;As a fully remote member of the Sparkhound Web and Mobile team, I worked as a full-stack developer 
+						<br /></br>&emsp;As a fully remote member of the Sparkhound Web and Mobile team, I have worked as a full-stack developer 
 						on both Sparkhound internal projects and contracts for external clients. I collaborated closely with a geographically 
 						dispersed team that included remote, onsite, and hybrid members, ensuring seamless communication and project continuity 
 						across multiple time zones.
