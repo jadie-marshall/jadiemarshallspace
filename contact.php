@@ -45,8 +45,8 @@
 		<div class="cButton">
 			<div class="cwrap">
 				<div class="bwrap">
-					<form method="POST" action="https://calendly.com/jadiemarshall/30min" target="_blank">
-						<button class="contactbutton" type="submit" title="https://calendly.com/jadiemarshall/30min">Schedule a Call!</button>
+					<form method="POST" action="https://calendly.com/marshall-jadie/30min" target="_blank">
+						<button class="contactbutton" type="submit" title="https://calendly.com/marshall-jadie/30min">Schedule a Call!</button>
 					</form>
 				</div>
 			</div>
