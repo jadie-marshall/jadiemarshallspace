@@ -18,5 +18,5 @@
 		</li>
 	</ul>
 </div>
-<p class="ftxt">&copy; Jadie Marshall 2020-2023 </p>
+<p class="ftxt">&copy; Jadie Marshall 2020-2026 </p>
 </div>
