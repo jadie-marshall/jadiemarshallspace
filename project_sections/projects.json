@@ -1,0 +1,372 @@
+{
+    "projects": [
+        {
+            "id": "eng",
+            "title": "Professional Experience",
+            "entries": [
+                {
+                    "company": "Sparkhound, LLC",
+                    "period": "November 2023 - October 2026",
+                    "blocks": [
+                        {
+                            "heading": "Team Duties and Work Overview",
+                            "paragraphs": [
+                                "I was a Software Consultant on Sparkhound's Web & Mobile team, working as a full-stack developer across both external client engagements and internal initiatives. The team developed and maintained custom web and mobile applications supporting business operations, workflow management, reporting, and data-driven processes.",
+                                "My work primarily involved C#/.NET applications, JavaScript, SQL, Microsoft Azure, and Microsoft Power Platform. I worked across the full software development lifecycle, including requirements analysis, sprint planning, development, testing, deployment coordination, production support, and technical documentation.",
+                                "Due to client confidentiality, application details are limited to high-level functionality. My projects included enterprise application modernization, workflow and reporting systems, database-backed applications, API integrations, and automation solutions."
+                            ]
+                        },
+                        {
+                            "heading": "Individual Duties and Responsibilities",
+                            "paragraphs": [
+                                "As a full-stack developer, I contributed to projects ranging from ongoing feature development to large-scale modernization efforts.",
+                                "One major project involved modernizing legacy C#/.NET applications by upgrading them to supported LTS versions, updating dependencies, refactoring existing code, and making architectural improvements to improve maintainability.",
+                                "I also contributed to decomposing a legacy 150-project C#/.NET solution into smaller, independently maintainable solutions. The initial effort focused on extracting business-orchestration components into a separate solution and establishing an independent build. I documented the architecture, dependencies, and build requirements so the modernization effort could continue after the development contract ended.",
+                                "Another project involved developing new benefit-related reporting workflows. This work included creating database records, messaging events, brokers, and subscribers and validating the complete event-driven workflow through end-to-end testing. I also created technical documentation describing the workflow-development process to support future development and knowledge transfer.",
+                                "I developed automated Microsoft licensing workflows using Power Automate and the PAX8 REST API to dynamically manage contractor licenses as staffing levels changed. I also developed PowerApps solutions that provided Excel-like data management, selective data refresh, and database persistence for business users.",
+                                "Throughout these projects, I used GitHub Copilot and Claude as AI-assisted development tools for code generation, refactoring, debugging, and documentation. Generated output was reviewed and validated for correctness before being incorporated into the codebase.",
+                                "I also used Azure DevOps for sprint tracking, work-item management, source control, and deployment coordination while collaborating with distributed development teams."
+                            ]
+                        },
+                        {
+                            "heading": "Languages, Technologies, and Skills",
+                            "list": [
+                                "C#",
+                                ".NET",
+                                "ASP.NET",
+                                "Entity Framework",
+                                "JavaScript",
+                                "HTML",
+                                "CSS",
+                                "SQL / SQL Server",
+                                "Git / GitHub",
+                                "Visual Studio",
+                                "Azure",
+                                "Azure DevOps",
+                                "Azure Functions",
+                                "Azure App Services",
+                                "Azure Blob Storage",
+                                "PowerApps",
+                                "Power Automate",
+                                "PAX8 REST API",
+                                "GitHub Copilot",
+                                "Claude",
+                                "Agile Development",
+                                "Legacy Application Modernization",
+                                "Solution Decomposition",
+                                "API and Workflow Development",
+                                "Automated Testing",
+                                "Technical Documentation",
+                                "Full-Stack Software Development"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "company": "CAP Index, Inc.",
+                    "period": "April 2023 - October 2023",
+                    "blocks": [
+                        {
+                            "heading": "Team Duties and Application Overview",
+                            "paragraphs": [
+                                "I was a full-stack developer on a fully remote Agile team supporting internal and client-facing applications for enterprise clients including Walmart and McDonald's.",
+                                "The applications were built using C#/.NET, JavaScript, HTML/CSS, and SQL, with development work organized through an Agile sprint process."
+                            ]
+                        },
+                        {
+                            "heading": "Individual Duties and Responsibilities",
+                            "paragraphs": [
+                                "I developed and enhanced application features based on stakeholder requirements, including administrative controls, report-generation improvements, and application maintenance functionality.",
+                                "I added administrative controls to place the CRIMECAST system into maintenance mode without requiring individual account updates, and improved application organization by separating inline CSS and JavaScript into dedicated files.",
+                                "I improved report generation by implementing queued long-running jobs and notifying users when reports were ready. I also supported the team's migration from TFS to Git-based repositories and improvements to development practices."
+                            ]
+                        },
+                        {
+                            "heading": "Languages, Technologies, and Skills",
+                            "list": [
+                                "C#",
+                                ".NET",
+                                "JavaScript",
+                                "HTML",
+                                "CSS",
+                                "SQL",
+                                "Git",
+                                "TFS",
+                                "Visual Studio",
+                                "Agile Methodology",
+                                "Full-Stack Development",
+                                "Application Maintenance",
+                                "Report Generation",
+                                "Legacy Code Updates"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "company": "Pomeroy, Vendor Client: IBM",
+                    "period": "January 2021 - March 2023",
+                    "blocks": [
+                        {
+                            "heading": "Team Duties and Application Overview",
+                            "paragraphs": [
+                                "I was a full-stack developer on a fully remote, geographically distributed team supporting the Global Print Web System microservices.",
+                                "The application used JavaScript with Angular, HTML/CSS, Java, and SQL, with development focused on maintaining existing services, adding new functionality, and supporting migration toward cloud-based infrastructure."
+                            ]
+                        },
+                        {
+                            "heading": "Individual Duties and Responsibilities",
+                            "paragraphs": [
+                                "I maintained and modernized existing application features while developing new functionality using SOLID design principles. I also contributed to migration from traditional servers to cloud-based infrastructure supporting frontend hosting, backend databases, and device assignment.",
+                                "I reworked device-assignment logic to eliminate hard-coded values and support future add-device requests, and led cleanup of obsolete and deleted printer records across device, model, and driver database tables.",
+                                "I helped establish GitHub source-control and branch-protection practices and contributed to automated integration and end-to-end testing. I also created onboarding documentation covering local development and testing environment setup."
+                            ]
+                        },
+                        {
+                            "heading": "Languages, Technologies, and Skills",
+                            "list": [
+                                "JavaScript",
+                                "Angular",
+                                "HTML",
+                                "CSS",
+                                "Java",
+                                "SQL",
+                                "Git",
+                                "GitHub",
+                                "GitHub Actions",
+                                "Visual Studio Code",
+                                "SOLID Design Principles",
+                                "Microservices",
+                                "Cloud Migration",
+                                "Automated Testing",
+                                "Integration Testing",
+                                "End-to-End Testing",
+                                "Technical Documentation"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "company": "iMedX",
+                    "period": "June 2020 - November 2020",
+                    "blocks": [
+                        {
+                            "heading": "Team Duties and Application Overview",
+                            "paragraphs": [
+                                "I was a full-stack developer on a medical analytics platform within a Scrum-based Agile team, working across the frontend, backend APIs, and relational database.",
+                                "The application used React, JavaScript, C#, .NET, Entity Framework, ASP.NET MVC, and SQL Server to provide analytics and data-driven functionality."
+                            ]
+                        },
+                        {
+                            "heading": "Individual Duties and Responsibilities",
+                            "paragraphs": [
+                                "I developed an alerts system across the application stack, including SQL tables, Entity Framework mappings, REST APIs, and frontend UI/UX for displaying and dismissing alerts.",
+                                "I created APIs supporting dashboard data hydration and alerts-system interactions and streamlined SQL Server databases and relational schemas in preparation for future AWS data lake and machine-learning applications.",
+                                "I collaborated with local and international development teams throughout application design and development and completed HIPAA compliance training, incorporating client data-security requirements into development and testing practices."
+                            ]
+                        },
+                        {
+                            "heading": "Languages, Technologies, and Skills",
+                            "list": [
+                                "C#",
+                                ".NET",
+                                "ASP.NET",
+                                "MVC",
+                                "Entity Framework",
+                                "JavaScript",
+                                "React",
+                                "HTML",
+                                "CSS",
+                                "SQL",
+                                "SQL Server",
+                                "REST APIs",
+                                "Git",
+                                "Visual Studio",
+                                "Agile Methodology",
+                                "Scrum",
+                                "Database Design",
+                                "API Development",
+                                "Full-Stack Development",
+                                "Data Security"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "company": "Centennial Arts",
+                    "period": "April 2019 - September 2019",
+                    "blocks": [
+                        {
+                            "heading": "Team Duties and Application Overview",
+                            "paragraphs": [
+                                "I worked as a front-end web developer creating and maintaining custom client websites and supporting ongoing website development projects."
+                            ]
+                        },
+                        {
+                            "heading": "Individual Duties and Responsibilities",
+                            "paragraphs": [
+                                "I developed reusable website elements, updated existing functionality based on client requirements, and created and implemented hotfixes for the site's editor.",
+                                "I collaborated with sales team members and server administrators to support client projects and resolve development issues."
+                            ]
+                        },
+                        {
+                            "heading": "Languages, Technologies, and Skills",
+                            "list": [
+                                "JavaScript",
+                                "jQuery",
+                                "HTML",
+                                "CSS",
+                                "PHP",
+                                "Front-End Development",
+                                "Web Development",
+                                "Reusable Components",
+                                "Client Requirements"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "web",
+            "title": "This Website!",
+            "blocks": [
+                {
+                    "heading": "Project Information",
+                    "paragraphs": [
+                        "This website was hand-written using HTML5, CSS3, PHP, and JavaScript. I own this domain and use Hostinger as my hosting platform.",
+                        "The site is responsive and cross-browser friendly, and I added a custom script to clean copied text before it is pasted elsewhere.",
+                        "I developed reusable PHP code blocks and JSON-based content structures to generate consistent project and work-experience sections from shared templates, reducing duplicated markup and simplifying future updates.",
+                        "I use GitHub Copilot to improve site functionality, refine existing code, and identify opportunities to incorporate relevant technical keywords throughout the site's content.",
+                        "The source code is managed in GitHub with automatic deployment hooks to Hostinger for fast publishing."
+                    ]
+                },
+                {
+                    "heading": "Languages and Skills",
+                    "list": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "PHP",
+                        "jQuery",
+                        "JSON",
+                        "Git",
+                        "GitHub",
+                        "GitHub Copilot",
+                        "Reusable Code",
+                        "Template-Based Development",
+                        "Web Design and Development",
+                        "Responsive Web Design",
+                        "Web Hosting",
+                        "Domain Ownership",
+                        "SEO and Keyword Optimization"
+                    ]
+                },
+                {
+                    "heading": "More Examples",
+                    "links": [
+                        {
+                            "label": "GitHub Repo (Opens in New Tab)",
+                            "href": "https://github.com/Musicorac/jadiemarshallspace.git",
+                            "img": "pics/tools.png",
+                            "alt": "circular icon, git logo"
+                        },
+                        {
+                            "label": "JavaScript Quiz Element",
+                            "href": "quiz.php",
+                            "img": "pics/question.png",
+                            "alt": "circular icon, question mark"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "listen",
+            "title": "Rubble Listening Device",
+            "subtitle": "Course: Computer Systems Design",
+            "slides": [
+                {
+                    "src": "pics/device.png",
+                    "title": "Listening device, top view",
+                    "alt": "Listening device, top view"
+                },
+                {
+                    "src": "pics/internal.jpg",
+                    "title": "SD card location, listening device.",
+                    "alt": "internal view of listening device showing SD card location"
+                },
+                {
+                    "src": "pics/side.jpg",
+                    "title": "Listening device, side view",
+                    "alt": "Listening device, side view"
+                }
+            ],
+            "blocks": [
+                {
+                    "heading": "Project Description",
+                    "paragraphs": [
+                        "The goal of the project was to create a self-contained device that could record sound for survivors trapped under rubble during disaster response scenarios.",
+                        "Our team used the ReSpeaker Core v2 and Python to process audio using a noise reduction pipeline before saving recordings to an SD card.",
+                        "The device could run through a recording cycle, wait between intervals, and alert rescuers to potential survivor noise in the saved files."
+                    ]
+                },
+                {
+                    "heading": "Languages and Skills",
+                    "list": [
+                        "Python",
+                        "Audio Signal Processing",
+                        "Hardware Interaction",
+                        "Project Planning",
+                        "Technical Documentation"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "saas",
+            "title": "SaaS Sailing Inventory System",
+            "subtitle": "Course: Software Engineering",
+            "slides": [
+                {
+                    "src": "pics/adminView.png",
+                    "title": "Inventory Admin View",
+                    "alt": "inventory system portal showing admin view"
+                },
+                {
+                    "src": "pics/memberView.png",
+                    "title": "Inventory Member View",
+                    "alt": "inventory system portal showing member view"
+                },
+                {
+                    "src": "pics/itemDetail.png",
+                    "title": "Inventory Item Detail",
+                    "alt": "inventory system portal showing item detail"
+                }
+            ],
+            "blocks": [
+                {
+                    "heading": "Project Description",
+                    "paragraphs": [
+                        "This project was created for the Texas A&M Sailing Team to replace a paper-based inventory process with a digital system.",
+                        "The backend was built using Ruby on Rails and the frontend used HTML, CSS, JavaScript, and PHP. We included admin/member roles, item tracking, and missing/broken item reporting.",
+                        "The project emphasized agile sprint planning, behavior-driven testing, and user-access controls for team administrators."
+                    ]
+                },
+                {
+                    "heading": "Languages and Skills",
+                    "list": [
+                        "Ruby on Rails",
+                        "SQL",
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "RSpec",
+                        "Cucumber",
+                        "Git/GitHub",
+                        "Agile Methodology"
+                    ]
+                }
+            ]
+        }
+    ]
+}
