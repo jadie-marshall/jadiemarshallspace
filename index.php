@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <link rel="stylesheet" href="styles.css">
-  <link href="pics/biopic.png" rel="shortcut icon" />
+	<?php include __DIR__ . '/favicon.php'; ?>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Jadie Marshall Portfolio</title>
   <meta name="description" content="Home page and About information on Jadie Marshall. Includes education

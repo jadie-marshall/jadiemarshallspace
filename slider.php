@@ -1,5 +1,6 @@
 <html>
 <head>
+	<?php include __DIR__ . '/favicon.php'; ?>
   <link rel="stylesheet" href="styles.css">
 <link rel="stylesheet" href="FlexSlider/flexslider.css" type="text/css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>

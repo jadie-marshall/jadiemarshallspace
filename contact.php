@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+<head>
   <link rel="stylesheet" href="styles.css">
-  <link href="pics/biopic.png" rel="shortcut icon" />
+	<?php include __DIR__ . '/favicon.php'; ?>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Contact Me</title>
   <meta name="description" content="Email and phone number contact information for Jadie Marshall">

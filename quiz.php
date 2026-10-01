@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
 	<link rel="stylesheet" href="styles.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 	<link rel="stylesheet" href="FlexSlider/flexslider.css" type="text/css">
 	<script src="FlexSlider/jquery.flexslider.js"></script>
 	<script src="myscripts.js"></script>
 	<script src="PapaParse/papaparse.min.js"></script>
-	<link href="pics/biopic.png" rel="shortcut icon" />
+	<?php include __DIR__ . '/favicon.php'; ?>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>JavaScript Quiz Showcase</title>
 </head>

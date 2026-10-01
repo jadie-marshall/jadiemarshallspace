@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<link href="pics/biopic.png" rel="shortcut icon" />
+<head>
+<?php include __DIR__ . '/favicon.php'; ?>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="styles.css">
 <script src="https://code.jquery.com/jquery-1.9.1.js"></script>
