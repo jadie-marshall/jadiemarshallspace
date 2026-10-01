@@ -14,13 +14,13 @@
 <div class="body">
 	<div class="contact">
 		<div class="cIcon"><div class="cwrap"><div class="brwap"><img src="pics/email.png" alt="Email icon, outline of an envelope."></div></div></div>
-		<div class="cInfo"><div class="wrapper"><h3>Email: jmarshall@aggienetwork.com</h3></div></div>
+		<div class="cInfo"><div class="wrapper"><h3>Email:marshall.jadie@gmail.com</h3></div></div>
 	</div>
 		<div class="cButton">
 			<div class="cwrap">
 				<div class="bwrap">
-					<form action="mailto:jmarshall@aggienetwork.com">
-						<button class="contactbutton" type="submit" title="mailto:jmarshall@aggienetwork.com">Send me an email!</button>
+					<form action="mailto:marshall.jadie@gmail.com">
+						<button class="contactbutton" type="submit" title="mailto:marshall.jadie.com">Send me an email!</button>
 					</form>
 				</div>
 			</div>
