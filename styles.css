@@ -217,6 +217,7 @@ header li {
 	max-height: none;
 }
 .about-section .info {
+	height: auto;
 	max-height: none;
 }
 .about-copy {
