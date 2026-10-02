@@ -305,11 +305,8 @@ header li {
 }
 
 @media only screen and (max-width: 1199px) {
-	.about-portrait {
-		max-height: 100px;
-	}
 	.about-portrait img {
-		max-height: 100px;
+	max-height: 200px;
 		object-fit: contain;
 	}
 	.pic {
@@ -345,6 +342,10 @@ header li {
 	}
 	.about-copy {
 		width: 100%;
+		text-align: center;
+	}
+	.about-copy p {
+		text-align: center;
 	}
 }
 
