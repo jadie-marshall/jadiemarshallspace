@@ -12,16 +12,14 @@
 	<?php include 'header.php';?>
 </header>
 <div class="body">
-	<div class="twoup about-section">
-		<div class="pic left">
-			<div class="imgwrapper"><img src="pics/biopic.png" alt="Profile image for Jadie Marshall."></div>
+	<section class="about-section">
+		<div class="about-portrait">
+			<img src="pics/biopic.png" alt="Profile image for Jadie Marshall.">
 		</div>
-		<div class="info">
-			<div class="textwrapper about-copy">
-				<?php include __DIR__ . '/project_sections/render_about.php'; ?>
-			</div>
+		<div class="about-copy">
+			<?php include __DIR__ . '/project_sections/render_about.php'; ?>
 		</div>
-	</div>
+	</section>
 
 	<div class="twoup">
 		<div class="pic right">

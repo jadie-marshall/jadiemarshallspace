@@ -214,13 +214,27 @@ header li {
 	max-height: 400px;
 }
 .about-section {
-	max-height: none;
+	display: flex;
+	align-items: flex-start;
+	gap: 24px;
+	width: 100%;
+	padding: 25px 0;
+	border-bottom: 5px solid;
 }
-.about-section .info {
+.about-portrait {
+	flex: 0 0 33.3%;
+	text-align: center;
+}
+.about-portrait img {
+	display: block;
+	width: 100%;
 	height: auto;
-	max-height: none;
+	max-width: 400px;
+	margin: 0 auto;
 }
 .about-copy {
+	flex: 1 1 0;
+	min-width: 0;
 	text-align: left;
 }
 .about-copy h1 {
@@ -291,6 +305,17 @@ header li {
 }
 
 @media only screen and (max-width: 1199px) {
+	.about-section {
+		flex-direction: column;
+		align-items: center;
+	}
+	.about-portrait {
+		flex-basis: auto;
+		width: min(90%, 400px);
+	}
+	.about-copy {
+		width: 100%;
+	}
 	.pic {
 		width: 90%;
 		margin: auto;
