@@ -229,7 +229,7 @@ header li {
 	display: block;
 	width: 100%;
 	height: auto;
-	max-width: 300px;
+	max-width: 400px;
 	margin: 0 auto;
 }
 .about-copy {
@@ -334,7 +334,7 @@ header li {
 	}
 	.about-portrait {
 		flex-basis: auto;
-		width: min(90%, 300px);
+		width: min(90%, 400px);
 	}
 	.about-copy {
 		width: 100%;
